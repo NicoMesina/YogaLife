@@ -29,13 +29,13 @@ h1, h2 {
     /*navigation links */
 
 #menu {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 4px;
 
 }
 
 #menu #logo {
-    line-height: 75px;
+    line-height: 70px;
 }
 
 #menu li {
@@ -76,6 +76,69 @@ h1, h2 {
     width: 100%;
     background: url(../images/yogalife.jpg)
     }
+
+/* yoga benefits */ 
+
+#yoga-info {
+    height: 600px;
+}
+
+#center-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: silver;
+}
+
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+.content .cn{
+    width: 160px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.content .cn a{
+    text-decoration: none;
+    color: #000;
+    transition: .3s ease;
+}
+
+.cn:hover{
+    background-color: #fff;
+}
+
+
+
+
+
+
 
 
     
