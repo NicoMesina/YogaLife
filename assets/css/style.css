@@ -74,7 +74,7 @@ h1, h2 {
 #Yoga-life {
     height: 600px;
     width: 100%;
-    background: url(../images/yogalife.jpg)
+    background: url(../images/backgroundyoga.jpg);
     }
 
 /* yoga benefits */ 
@@ -147,6 +147,31 @@ footer {
     background-color: rgb(255, 255, 128);
 }
 
+.about{
+    width: 100%;
+    padding: auto;
+    background-color: bisque;
+}
+
+.about-text{
+    width: 550px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h2{
+    color: #fff;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
 
 
 
