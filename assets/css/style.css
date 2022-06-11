@@ -115,13 +115,12 @@ footer {
 
 /* gallery */ 
 
-#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-
-}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
 
 #photos > img{
     width: 100%;
@@ -180,12 +179,7 @@ footer {
      }
 
 
-     /* yogaoutdoor */ 
-     .column {
-        float: right;
-        width: 33.33%;
-        padding: 5px;
-      }
+    
       
     
 
