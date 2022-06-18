@@ -282,6 +282,27 @@ footer {
          text-align: center;
      }
 
+     .column {
+        float: left;
+        width: 30%;
+        padding: 5px;
+      }
+      
+      /* Clear floats after image containers */
+      .row::after {
+        clear: both;
+        display: table;
+      }
+
+      .row {
+        display:table-row;
+      }
+      
+      .column {
+        flex: 30%;
+        padding: 5px;
+      }
+
      
 
     
