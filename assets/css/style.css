@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@1,300&family=Tiro+Bangla:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arapey:ital@1&family=Laila&family=Source+Serif+Pro:ital,wght@1,300&family=Tiro+Tamil&family=Yanone+Kaffeesatz:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
     }
     
     body {
-        font-family: American Typewriter, serif; 
+        font-family: Laila;
         font-weight: 300; 
         color: #3a3a3a;
     }
@@ -22,35 +22,53 @@ h1, h2 {
 
     #logo {
         float: left;
-        font-size: 200%;
-        margin-left: 30px;
-    }
+        color: black;
+        text-align: center;
+        padding: 12px;
+        text-decoration: none;
+        font-size: 35px;
+        line-height: 25px;
+        border-radius: 4px;
+		}
 
     /*navigation links */
 
 #menu {
     font-size: 100%;
     letter-spacing: 4px;
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 10px;
+    border-radius: 4px;
 
 }
 
 #menu #logo {
     line-height: 70px;
+   
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+   
+  
 }
 
 #menu a {
     text-decoration: none;
     color: inherit;
+   
     }
     
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+        
     }
     
     .active {
@@ -186,6 +204,8 @@ footer {
          font-family: 'Roboto', sans-serif;
          font-weight: 400;
      }
+     
+    
      
      
      * focus {
