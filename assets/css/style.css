@@ -47,6 +47,7 @@ h1, h2 {
 
 }
 
+
 #menu #logo {
     line-height: 70px;
    
@@ -230,7 +231,45 @@ footer {
          margin: 48px 12px;
          background: #E3F2FD;
          border-radius: 4px;
+         line-height: 10px;
+         
      }
+/*navigation links */
+     #signup {
+        font-size: 100%;
+        letter-spacing: 4px;
+        float: right;
+        color: black;
+        text-align: center;
+        padding: 1px;
+        text-decoration: none;
+        font-size: 15px;
+        line-height: 10px;
+        border-radius: 4px;
+     }
+
+     #signup li {
+        float: right;
+        list-style-type: none;
+        margin-right: 30px;
+       }
+
+       #signup a {
+        text-decoration: none;
+        color: inherit;
+       
+        }
+
+        #signup a:hover {
+            border-bottom: 1px solid #3a3a3a;
+            }
+
+           
+
+
+
+
+    
      
      /* Add styles to 'label' selector */
      label {
