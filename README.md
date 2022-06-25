@@ -1,108 +1,199 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+**Purpose**
 
-Welcome Nico Mesina,
+I have created this website with the intention of sending a message to our viewers about Yoga and the benefits of Yoga. In my opinion this is much more then Yoga, this is all about the internal life within you and I tried my best to give a clear idea of the importance of having that time of the day just for you. Breathing, stretching, and giving your body that internal peace for a better you. Let’s be honest, our daily lifes are busy and stressful even when we don’t think it is. I also have involved few techniques that can be done at home. The main purpose was also to make it simple and straight forward including:
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+- Benefits of Yoga
+- When and where are the classes
+- The times
+- And join us by clicking on the join us that brings you straight to my email or sign up on the sign-up page.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+**Home Page:** I have really spent time in making sure that the home page is simple and straight to the point by making sure I have the right image in place with a nice welcome header! I also made sure that the “YogaLife” header on the top left side of the page is clickable and it brings the viewer back to the home page no matter what. I have also made sure that when scrolling down the viewer can see the benefits of Yoga answering some of the most common questions asked about Yoga. Right below the benefits I have also introduced our viewer few techniques they can easily perform at home and followed by that we have the schedule and “JOIN US” button that brings the viewers straight to my email address. There are also social media icons that are clickable. I have also made sure to use that specific color all throughout the home page as it gives the first impression of yoga and of something positive, I could not use a dark color on such topic as yoga, yoga brings peace and it requires a positive peaceful color.
 
-## Gitpod Reminders
+**Gallery:** I did not want to complicate the gallery page as I believe the home page is the most important which provides all the necessary information. Gallery was more for the viewers to see some of the postures made and also the location of the classes which is in the park. I also believe this yoga classes brings people closer; this are group classes which are great for people to get to know each other and have great time and that’s what we see in those photos.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+**Sign up:** This sign-up page is a very important part of the website as the viewer can easily sign up and join us. Also, a reply will be sent back to the viewer with the rest of the information, payments and time as a confirmation. The structure and purpose of this page is to be simple and effective. I have also made a JOINUS button for a simple way for anyone to get in touch via email and on the other side I have made a signup page for anyone interested in scheduling the day they might consider coming for the yoga class.
 
-`python3 -m http.server`
+-   **User Goal**:
 
-A blue button should appear to click: _Make Public_,
+-   Simple to use a information required.
+-   Explains business purpose.
+-   Allows viewers to see the main benefits
 
-Another blue button should appear to click: _Open Browser_.
+-   **Business Goal**:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+-   Giving interest.
+-   Engage the viewer.
+-   Have the viewer coming back
 
-A blue button should appear to click: _Make Public_,
+**First Time Visitor Goals**
 
-Another blue button should appear to click: _Open Browser_.
+-   As a First Time user, I want them to easily understand the main benefits of Yoga.
+-   As a First Time user, I want them to be able to easily navigate throughout the site to find content.
+-   As a First Time user, I want them to view the website and content clearly on my mobile device or any other devices.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+**Frequent Visitor Goals**
 
-To log into the Heroku toolbelt CLI:
+-   As a Frequent user, I would check to see if there are any time schedules changes that have been made.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+**Structure**
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+I have made this site simple and straight to the point with simple explanation and times for the Yoga classes. The navigation menu is easy to use. All viewers will be able to navigate easily though the website and find the information. The main purpose of the structure on this site was to make it simple and effective for the viewers to see the benefits of yoga and the times to join us.
 
-------
+HTML and CSS was used to make the Website. The layouts and images are the correct sizing to stand out and make it simple for the viewers.
 
-## Release History
+All pages are responsive and the layouts will change depending on screen size. I also made sure that the website can be viewed clearly on mobile devices.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+**Design**
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+**Color** 
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The three main colors used are light pink, white and light blue on the website as I believe this are positive colors which match up great with yoga. I also believe it’s very catchy on the eyes and it gives an easy positive view of the website. This website is for yoga lovers and i chose positive opening colors choices like light pink, white, and light blue which are associated with health, wellness and relaxation.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+**Look & feel**
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+The main body font for the home page is “Laila” as I believe its associated with yoga and it transmits trough the website a nice design that standouts and it wont be boring for the viewer while reading.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+The three primary colors were:
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+_RGB(255, 255, 128);_
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg)<![endif]>
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+_(#fff);_
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg)<![endif]>
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+_(#64B5F6);_
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg)<![endif]>
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+**Heading**
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The header has a font-family of **tiro bangla** as I believe it’s a strong bolded dark color that stands out. I have also made sure the header is clickable and it will bring you back to the home page no matter what. I have used the _font-size 35px_ as it stands out on all pages.  
+<![if !supportLineBreakNewLine]>  
+<![endif]>
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+**Technologies**
 
-------
+-   HTML
 
-## FAQ about the uptime script
+-   This website uses HTML as the main language used to describe the content and structure of the Website.
 
-**Why have you added this script?**
+-   CSS
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+-   This website uses custom written CSS to style the Website.
 
-**How will this affect me?**
+-   [Font Awesome](https://fontawesome.com/)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+-   Font awesome Icons are used for the social media links contained in the Footer section of the website.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+-   [Google Fonts](https://fonts.google.com/)
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+-   Google fonts are used throughout the project to import different fonts on the website to make it standout and simple to see when reading.
 
-**So….?**
+-   [GitHub](https://github.com/)
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+-   GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
 
-**Can I opt out?**
+-   [Git](https://git-scm.com/)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+-   Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+-   [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 
-**Anything more?**
+-   Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+-   [Techsini](http://techsini.com/multi-mockup/index.php)
 
----
+-   tecnisih.com Multi Device Website Mockup Generator was used to create the Mock up image in this README
 
-Happy coding!
+-   [placehold.it](https://placehold.it/)
+
+-   placehold.it was used to display the colours shown in the Color Scheme section.
+
+----------
+
+**Testing**
+
+Testing was very important as we should see if the viewer will be able to comfortably see the website on other devices such as iPads and mobile phones.
+
+I used testing methods by pressing inspect and using dimensions responsive, I have also tried it as iPhone devices etc.
+
+For small screens sizes 800px and down.
+
+**Desktop size:**
+
+<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg)<![endif]>
+
+**Smaller device such as phones:**
+
+<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image009.jpg)<![endif]>
+
+**Testing feature: Contact form**
+
+Making sure everything is clickable, “name, last name, email and message lets the viewer write down in the space without any issue. “Also, making sure “Submit button” is clickable and works”
+
+**How did I check and the result:**
+
+I completed the form my self and clicked submit and all worked fine. Making sure it runs fine without any issues.
+
+**Testing feature: Gallery**
+
+Making sure the images are attached to each other as I did not want any space between. There are six images in total with column count 4 and width 100%. Four images showing classes of yoga in the park and two images showing the benefits of yoga.
+
+**How did I check and the result:**
+
+Mainly used inspection as responsive mode and made sure images stay in its size for each device starting from a desktop. Result passed.
+
+**Testing feature: Home page**
+
+Making sure the entire layout is in the centre of the page which keeps the website organised and easy to view. Making sure that the “Join us” button is clickable and it brings the viewer straight to my email. And also, that the social media icons are clickable and it brings the viewer to the social media page.
+
+**How did I check and the result:**
+
+Clicked several times on “Join us” button to make sure it functions properly and it brings me straight to the email. Also, clicked on each social media icon to make sure it brings me to the social media page which it did. Result passed for the home page.
+
+**How to Run this Project in your Browser**
+
+1.  Install the [Google Chrome](https://www.google.co.uk/chrome/) or [Firefox](https://www.mozilla.org/en-GB/exp/firefox/new/) browser.
+2.  Install the applicable [GitPod](https://www.gitpod.io/docs/browser-extension/) Browser Extensions for your chosen browser.
+3.  Create a [GitHub](https://github.com/join) account.
+4.  Log in to [Gitpod](https://gitpod.io/login/) using your GitHub account.
+5.  Click on YogaLife _GitHub Repository._
+6.  Open the repository in Gitpod:
+
+-   Click the green "Gitpod" icon at the top of the Repository
+
+8.  A new workspace will open with the current state of the master branch. Any changes made to the master branch after this point will not be automatically updated in your Gitpod Workspace.
+
+**Cloning the Repository**
+
+1.  Click on YogaLife _GitHub Repository._
+2.  Click the "Code" dropdown box above the repository's file explorer.
+3.  Under the "Clone" heading, click the "HTTPS" sub-heading.
+4.  Click the clipboard icon, or manually copy the text presented:
+5.  https://gitpod.io/#https://github.com/NicoMesina/YogaLife
+6.  Open your preferred IDE (VSCode, Atom, PyCharm, etc).
+7.  Ensure your IDE has support for Git, or has the relevant Git extension.
+8.  Open the terminal, and create a directory where you would like the Repository to be stored.
+9.  Type git clone and paste the previously copied text (https://gitpod.io/#https://github.com/NicoMesina/YogaLife) and press enter.
+10.  The Repository will then be cloned to your selected directory.
+
+**Manually Downloading the Repository**
+
+1.  Click on YogaLife _GitHub Repository._
+2.  Click the "Code" dropdown box above the repository's file explorer.
+3.  Click the "Download ZIP" option; this will download a copy of the selected branch's repository as a zip file.
+4.  Locate the ZIP file downloaded to your computer, and extract the ZIP to a designated folder which you would like the repository to be stored.
+
+----------
+
+**Credits**
+
+**Content**
+
+-   All ideas including fonts, layouts, structure, design, and every detail were designed by me.
+
+**Media**
+
+-   All Photographs were sourced from google with copy rights permission.
