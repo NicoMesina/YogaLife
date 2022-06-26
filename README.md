@@ -55,15 +55,15 @@ The main body font for the home page is “Laila” as I believe its associated 
 
 The three primary colors were:
 
-[![View of the color RGB(255, 255, 128)](/assets/images/pic1.png) 
+![View of the color RGB 255, 255, 128](/assets/images/pic1.png "View of the color RGB 255, 255, 128")
 
-[![View of the color two (#fff)](/assets/images/pic2.png)
+![View of the color two #fff](/assets/images/pic2.png "View of the color two #fff")
 
-[![View of the color two (#64B5F6)](/assets/images/pic2.png)
+![View of the color two #64B5F6](/assets/images/pic2.png "View of the color two #64B5F6")
 
-[![Desktop size](/assets/images/pic3.png)
+![Desktop size](/assets/images/pic3.png "Desktop size") 
 
-[![Smaller device such as phones](/assets/images/pic4.png)
+![Smaller device such as phones](/assets/images/pic4.png "Smaller device such as phones")
 
 **Heading**
 
