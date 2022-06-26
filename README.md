@@ -5,7 +5,7 @@ I have created this website with the intention of sending a message to our viewe
 - Benefits of Yoga
 - When and where are the classes
 - The times
-- And join us by clicking on the join us that brings you straight to my email or sign up on the sign-up page.
+- And join us button
 
 **Home Page:** I have really spent time in making sure that the home page is simple and straight to the point by making sure I have the right image in place with a nice welcome header! I also made sure that the “YogaLife” header on the top left side of the page is clickable and it brings the viewer back to the home page no matter what. I have also made sure that when scrolling down the viewer can see the benefits of Yoga answering some of the most common questions asked about Yoga. Right below the benefits I have also introduced our viewer few techniques they can easily perform at home and followed by that we have the schedule and “JOIN US” button that brings the viewers straight to my email address. There are also social media icons that are clickable. I have also made sure to use that specific color all throughout the home page as it gives the first impression of yoga and of something positive, I could not use a dark color on such topic as yoga, yoga brings peace and it requires a positive peaceful color.
 
@@ -15,15 +15,15 @@ I have created this website with the intention of sending a message to our viewe
 
 -   **User Goal**:
 
--   Simple to use a information required.
+-   Simple to use.
 -   Explains business purpose.
--   Allows viewers to see the main benefits
+-   Allows viewers to see the main benefits.
 
 -   **Business Goal**:
 
 -   Giving interest.
 -   Engage the viewer.
--   Have the viewer coming back
+-   Have the viewer coming back.
 
 **First Time Visitor Goals**
 
@@ -55,17 +55,15 @@ The main body font for the home page is “Laila” as I believe its associated 
 
 The three primary colors were:
 
-_RGB(255, 255, 128);_
+[![View of the color RGB(255, 255, 128)](/assets/images/pic1.png) 
 
-<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg)<![endif]>
+[![View of the color two (#fff)](/assets/images/pic2.png)
 
-_(#fff);_
+[![View of the color two (#64B5F6)](/assets/images/pic2.png)
 
-<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg)<![endif]>
+[![Desktop size](/assets/images/pic3.png)
 
-_(#64B5F6);_
-
-<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg)<![endif]>
+[![Smaller device such as phones](/assets/images/pic4.png)
 
 **Heading**
 
