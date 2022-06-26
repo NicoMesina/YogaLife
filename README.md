@@ -13,13 +13,13 @@ I have created this website with the intention of sending a message to our viewe
 
 **Sign up:** This sign-up page is a very important part of the website as the viewer can easily sign up and join us. Also, a reply will be sent back to the viewer with the rest of the information, payments and time as a confirmation. The structure and purpose of this page is to be simple and effective. I have also made a JOINUS button for a simple way for anyone to get in touch via email and on the other side I have made a signup page for anyone interested in scheduling the day they might consider coming for the yoga class.
 
--   **User Goal**:
+  **User Goal**
 
 -   Simple to use.
 -   Explains business purpose.
 -   Allows viewers to see the main benefits.
 
--   **Business Goal**:
+  **Business Goal**
 
 -   Giving interest.
 -   Engage the viewer.
@@ -53,17 +53,10 @@ The three main colors used are light pink, white and light blue on the website a
 
 The main body font for the home page is “Laila” as I believe its associated with yoga and it transmits trough the website a nice design that standouts and it wont be boring for the viewer while reading.
 
-The three primary colors were:
+The primary colors:
 
-![View of the color RGB 255, 255, 128](/assets/images/pic1.png "View of the color RGB 255, 255, 128")
-
-![View of the color two #fff](/assets/images/pic2.png "View of the color two #fff")
-
-![View of the color two #64B5F6](/assets/images/pic2.png "View of the color two #64B5F6")
-
-![Desktop size](/assets/images/pic3.png "Desktop size") 
-
-![Smaller device such as phones](/assets/images/pic4.png "Smaller device such as phones")
+![RGB(255, 255, 128)!](/assets/images/pic1.png "RGB(255, 255, 128)")
+![(#fff)!](/assets/images/pic2.png "(#fff)")
 
 **Heading**
 
@@ -121,11 +114,14 @@ For small screens sizes 800px and down.
 
 **Desktop size:**
 
-<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg)<![endif]>
+
+![Desktop size!](/assets/images/pic3.png "Desktop size") 
+
+
 
 **Smaller device such as phones:**
 
-<![if !vml]>![](file:///C:/Users/nickm/AppData/Local/Temp/msohtmlclip1/01/clip_image009.jpg)<![endif]>
+![Smaller device such as phones!](/assets/images/pic4.png "Smaller device such as phones")
 
 **Testing feature: Contact form**
 
