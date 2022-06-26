@@ -194,3 +194,4 @@ Clicked several times on “Join us” button to make sure it functions properly
 **Link to the website:**
 - https://nicomesina.github.io/YogaLife/
 
+
