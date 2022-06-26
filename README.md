@@ -61,8 +61,7 @@ The primary colors:
 **Heading**
 
 The header has a font-family of **tiro bangla** as I believe it’s a strong bolded dark color that stands out. I have also made sure the header is clickable and it will bring you back to the home page no matter what. I have used the _font-size 35px_ as it stands out on all pages.  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+
 
 **Technologies**
 
@@ -74,31 +73,31 @@ The header has a font-family of **tiro bangla** as I believe it’s a strong bol
 
 -   This website uses custom written CSS to style the Website.
 
--   [Font Awesome](https://fontawesome.com/)
+ [Font Awesome](https://fontawesome.com/)
 
 -   Font awesome Icons are used for the social media links contained in the Footer section of the website.
 
--   [Google Fonts](https://fonts.google.com/)
+ [Google Fonts](https://fonts.google.com/)
 
 -   Google fonts are used throughout the project to import different fonts on the website to make it standout and simple to see when reading.
 
--   [GitHub](https://github.com/)
+   [GitHub](https://github.com/)
 
 -   GithHub is the hosting site used to store the source code for the Website and [Git Pages](https://pages.github.com/) is used for the deployment of the live site.
 
--   [Git](https://git-scm.com/)
+   [Git](https://git-scm.com/)
 
 -   Git is used as version control software to commit and push code to the GitHub repository where the source code is stored.
 
--   [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+  [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
 
 -   Google chromes built in developer tools are used to inspect page elements and help debug issues with the site layout and test different CSS styles.
 
--   [Techsini](http://techsini.com/multi-mockup/index.php)
+   [Techsini](http://techsini.com/multi-mockup/index.php)
 
 -   tecnisih.com Multi Device Website Mockup Generator was used to create the Mock up image in this README
 
--   [placehold.it](https://placehold.it/)
+  [placehold.it](https://placehold.it/)
 
 -   placehold.it was used to display the colours shown in the Color Scheme section.
 
