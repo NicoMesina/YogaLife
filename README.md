@@ -190,3 +190,6 @@ Clicked several times on “Join us” button to make sure it functions properly
 **Media**
 
 -   All Photographs were sourced from google with copy rights permission.
+
+**Link to the website:**
+https://8000-nicomesina-yogalife-wq9ew2uagxf.ws-eu47.gitpod.io/
